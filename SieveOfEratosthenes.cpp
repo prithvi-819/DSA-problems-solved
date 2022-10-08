@@ -1,3 +1,5 @@
+// finding prime numbers from 0 to n using SieveOfEratosthenes.
+
 #include <iostream>
 
 using namespace std;
